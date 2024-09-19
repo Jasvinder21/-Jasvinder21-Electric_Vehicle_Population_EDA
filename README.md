@@ -1,6 +1,7 @@
 # Electric_Vehicle_Population_EDA
-![EDA1](https://github.com/user-attachments/assets/f1d74518-588a-4c15-bddf-815b6fc985a2)
-![EDA2](https://github.com/user-attachments/assets/cf8a799e-fcf9-4f04-afc2-603f6261255e)
-![EDA3](https://github.com/user-attachments/assets/9eae04bf-9652-4d54-b4b9-c7e6772ccdbb)
-![EDA4](https://github.com/user-attachments/assets/db70c000-3db5-437e-a9b0-be9fb3146f44)
-![EDA5](https://github.com/user-attachments/assets/a21c1aa4-ca3f-42fb-8e6a-71b37a1f71e3)
+![EDA1](https://github.com/user-attachments/assets/828fe6da-4c82-408b-a560-1d4300f662e1)
+![EDA2](https://github.com/user-attachments/assets/6f8b33fc-5790-47c5-9550-f7c7e2f8b861)
+![EDA3](https://github.com/user-attachments/assets/c47e64fd-b73b-4da4-ba11-0b496efb37b4)
+![EDA4](https://github.com/user-attachments/assets/1a0ffda5-f695-427c-9b2d-5d8429ae0594)
+![EDA5](https://github.com/user-attachments/assets/375c62b5-4eea-4d6a-ab53-688f90f022c7)
+
